@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Snake animation](https://github.com/ozandogrultan/ozandogrultan/blob/readme/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
